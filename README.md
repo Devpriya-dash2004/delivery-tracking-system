@@ -606,9 +606,9 @@ Windows Build Script	Available
 
 
 Author
-Pranav Kumar
+Devpriya Dash
 B.Tech Computer Science Engineering
 Institute of Technical Education and Research (ITER)
 SOA Deemed to be University
 GitHub:
-https://github.com/pranav7609
+https://github.com/Devpriya-dash2004
